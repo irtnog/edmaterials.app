@@ -1,0 +1,16 @@
+title: ED Materials
+email: im2d.elitedangerous@gmail.com
+description: |-
+  The ultimate central guide to collecting materials in Elite Dangerous
+repository: irtnog/edmaterials.app
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+header-pages:
+include:
+  - _
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
